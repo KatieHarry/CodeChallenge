@@ -1,0 +1,9 @@
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.csproj.AssemblyReference.cache
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.AssemblyInfoInputs.cache
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.AssemblyInfo.cs
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.dll
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\refint\SomeCodeChallenge1.dll
+C:\Users\kathr\OneDrive\Documents\Career stuff\Mindex\dotnet-code-challenge\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\SomeCodeChallenge1.pdb
